@@ -21,15 +21,15 @@ category: Kudija Kitchen
 
 
 ## Instructions
-1 .  Set oven to 450 degrees.
+1.  Set oven to 450 degrees.
 
-2 .  Drizzle chicken breasts with olive oil and sprinkle with salt and pepper.
+2.  Drizzle chicken breasts with olive oil and sprinkle with salt and pepper.
 
-3 .  On an ungreased baking sheet, bake chicken breasts for 20 minutes.
+3.  On an ungreased baking sheet, bake chicken breasts for 20 minutes.
 
-4 .  Let chicken cool and then toss all above ingredients together. 
+4.  Let chicken cool and then toss all above ingredients together. 
 
-5 .  Enjoy!
+5.  Enjoy!
 
 
 *Original Source: [Ate Everything](https://www.the-girl-who-ate-everything.com/bowtie-chicken-caesar-salad)*

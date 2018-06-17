@@ -26,16 +26,16 @@ category: Kudija Kitchen
 
 
 ## Instructions
-1 . Preheat oven to 425˚F. 
+1. Preheat oven to 425˚F. 
 
-2 . Place zucchini, bell pepper and mushrooms on a baking sheet. Drizzle veggies with olive oil and season with salt and pepper then toss to evenly coat. 
+2. Place zucchini, bell pepper and mushrooms on a baking sheet. Drizzle veggies with olive oil and season with salt and pepper then toss to evenly coat. 
 
-3 . Roast in preheated oven 10 minutes, then remove, add tomatoes and garlic and toss. Roast 10 minutes longer or until veggies are tender then remove add spinach and toss, roast 1 minute longer or until spinach has wilted. 
+3. Roast in preheated oven 10 minutes, then remove, add tomatoes and garlic and toss. Roast 10 minutes longer or until veggies are tender then remove add spinach and toss, roast 1 minute longer or until spinach has wilted. 
 
-4 . While veggies are roasting cook tortellini according to directions listed on package and drain.
+4. While veggies are roasting cook tortellini according to directions listed on package and drain.
 
-5 . Pour drained tortellini into a large bowl. Add in roasted veggies and pesto and season with salt and pepper to taste then toss to evenly coat. 
+5. Pour drained tortellini into a large bowl. Add in roasted veggies and pesto and season with salt and pepper to taste then toss to evenly coat. 
 
-6 . Serve warm, top each serving with parmesan cheese.
+6. Serve warm, top each serving with parmesan cheese.
 
 *Original Source: [Cooking Classy](https://www.cookingclassy.com/tortellini-with-pesto-roasted-veggies/)*
