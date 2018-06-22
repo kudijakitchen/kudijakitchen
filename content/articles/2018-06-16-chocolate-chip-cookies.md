@@ -9,6 +9,46 @@ cookTime: 0 min
 image: chocolate-chip-cookies.jpg
 category: Kudija Kitchen
 
+# Recipe 1
+
+## Ingredients
+1 1/4 cups flour
+1/2 teaspoon baking soda
+1/2 teaspoon salt
+1/2 cup (1 stick) butter
+3/8 cup sugar
+3/8 cup brown sugar
+1/2 teaspoon vanilla extract
+1 egg
+1 cup semi-sweet chocolate chips
+Favorite ice cream (we like Graeters Black Raspberry Chip!)
+
+
+## Instructions
+1. Preheat oven to 375°F.
+
+2. Combine flour, baking soda, and salt in small bowl. 
+
+3. Beat butter, granulated sugar, brown sugar, and vanilla extract in large mixer bowl until creamy. 
+
+4. Add eggs, beating well after each addition. 
+
+5. Gradually beat in flour mixture. 
+
+6. Stir in chocolate chips. 
+
+7. Drop by rounded tablespoon onto ungreased baking sheets.
+
+8. Bake for 9 to 11 minutes or until golden brown. 
+
+9. Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.
+
+10. Once cookies are cool, spoon a scoop of ice cream onto one cookie and stack another on top to make a sandwich! Enjoy!!
+
+*Originally from Nestle*
+
+
+# Recipe 2
 
 ## Ingredients
 - 1 cup shortening
