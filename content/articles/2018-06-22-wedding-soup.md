@@ -31,4 +31,4 @@ category: Kudija Kitchen
 
 **Note**: double this recipe for more servings. This amount makes about 6 servings.
 
-*Originally taken from: [Living Well Spending Less](https://www.livingwellspendingless.com/2018/02/14/easy-italian-wedding-soup/)
+*Originally taken from: [Living Well Spending Less](https://www.livingwellspendingless.com/2018/02/14/easy-italian-wedding-soup/)*
