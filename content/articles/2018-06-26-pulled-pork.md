@@ -11,16 +11,16 @@ category: Kudija Kitchen
 
 
 ## Ingredients
--2 white onions
--1 whole pork shoulder roast (5 lbs)
--3 cans of Dr. Pepper
--5 tablespoons of brown sugar
--1 tablespoon of garlic powder
--1 tablespoon of onion powder 
--Salt and Pepper to taste
--Barbecue sauce
+- 2 white onions
+- 1 whole pork shoulder roast (5 lbs)
+- 3 cans of Dr. Pepper
+- 5 tablespoons of brown sugar
+- 1 tablespoon of garlic powder
+- 1 tablespoon of onion powder 
+- Salt and Pepper to taste
+- Barbecue sauce
 
-# Instructions
+## Instructions
 1. Slice onions into quarters. Place in bottom of crockpot.
 
 2. In a small bowl, mix together garlic powder, onion powder, salt and pepper. 
