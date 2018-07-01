@@ -39,7 +39,7 @@ category: Kudija Kitchen
 
 5. Remove from heat and serve immediately. Enjoy!
 
-**Originally from [eatwell101](https://www.eatwell101.com/garlic-butter-steak-and-potatoes-recipe)**
+*Original source: [eatwell101](https://www.eatwell101.com/garlic-butter-steak-and-potatoes-recipe)*
 
 ## Asparagus
 ### Ingredients
