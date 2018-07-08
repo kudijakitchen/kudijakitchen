@@ -21,7 +21,7 @@ category: Kudija Kitchen
 
 
 ## Instructions
-1.  Set oven to 450 degrees.
+1.  Set oven to 450˚F.
 
 2.  Drizzle chicken breasts with olive oil and sprinkle with salt and pepper.
 

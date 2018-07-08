@@ -23,7 +23,7 @@ category: Kudija Kitchen
 
 
 ## Instructions
-1. Preheat oven to 375 degrees.
+1. Preheat oven to 375˚F.
 
 2. Season chicken with salt and pepper.
 
