@@ -1,4 +1,4 @@
-Title: Turkey Burgers with Sweet Potato Fries
+Title: Turkey Burgers
 date: 2018-07-10
 comments: false
 slug: turkey-burgers

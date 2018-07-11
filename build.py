@@ -190,7 +190,8 @@ def construct_index(articles, categories, pathOutput):
         replace_text_in_file(original, add=category.replace(' ',''), replaceText='#CATEGORY_ID#')
         
         # update articles
-        for key in metadataAll:
+        # for key in metadataAll:
+        for key in list(metadataAll.keys())[::-1]:
             if metadataAll[key]['category']==category:
                 # print('\t{}'.format(metadataAll[key]['title']))
                 insert_text_in_file(original, add='theme/indexArticle.html', insertionPoint='#ARTICLES#')
