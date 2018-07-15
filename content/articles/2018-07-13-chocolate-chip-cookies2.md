@@ -20,6 +20,8 @@ category: Kudija Kitchen
 - 1 teaspoon vanilla extract
 - 2 1/4 cups semisweet chocolate chips
 
+## Instructions
+
 1. Preheat the oven to 350˚F.
 
 2. In a bowl, mix the flour, baking soda, and salt together.
