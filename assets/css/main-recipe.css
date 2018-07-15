@@ -10,6 +10,18 @@ body {
 	padding: 1em 2em 0em 2em;
 }
 
+/* For small screens (less than 600px): */
+@media only screen and (max-width: 600px) {
+	body {
+		background: #fff;
+		font-family: 'Open Sans', sans-serif;
+		font-size: 11pt;
+		line-height: 2em;
+		color: #777;
+		padding: 0em 0em 0em 0em;
+	}
+}
+
 a {
 	color: #43B3E0;
 	text-decoration: none;
@@ -22,6 +34,22 @@ a:hover {
 
 a img {
 	border: 0;
+}
+
+
+/* For large screens: */
+img {
+	max-width: 750px;
+	height: auto;
+}
+
+/* For small screens (less than 600px): */
+@media only screen and (max-width: 600px) {
+	img
+	{	
+		min-width: 98%;
+		height: auto;
+	}
 }
 
 
@@ -73,6 +101,17 @@ em {
 	font-size: 0.6em;
 }
 
+/* For small screens (less than 600px): */
+@media only screen and (max-width: 600px) {
+	.footer {
+		margin-left: -1em;
+		margin-right: 0em;
+		text-align: left;
+		background-color: #dce3e2;
+		padding: 1em 1em 1em 1em;
+		font-size: 8;
+	}
+}
 /* Icons */
 .icon {
 	text-decoration: none;
