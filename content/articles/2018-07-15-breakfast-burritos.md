@@ -16,13 +16,17 @@ category: Kudija Kitchen
 - 2 eggs
 - 2 tablespoons of salsa (homemade or store bought)
 - 2 tablespoons of sharp shredded cheddar 
-- Green onions, to garnish 
+- Green onions, to garnish
+- 1/2 tablespoon butter
 - Pepper, to taste
 
 ### Instructions
-1. In large pan over medium heat, scramble eggs.
 
-2. When finished, arrange eggs on tortilla. Top with pepper, cheese salsa and green onions. Roll and cut in half. Enjoy! 
+1. In a large pan on medium heat, place 1/2 tablespoon of butter in pan. Coat pan with melted butter. 
+
+2. Add eggs and scramble 
+
+3. When finished, arrange eggs on tortilla. Top with pepper, cheese salsa and green onions. Roll and cut in half. Enjoy! 
 
 *Note: we also enjoy adding spinach or bacon!*
 
