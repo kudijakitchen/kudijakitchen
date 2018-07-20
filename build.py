@@ -214,7 +214,9 @@ def resize_images(dst, width):
 
     img_files = os.listdir(dst)  # list all files and directories
 
+    i=1
     for file in img_files:
+        print('\t{} images resized.  '.format(i), end='\r')
         foo = Image.open(dst/Path(file))
         size0 = foo.size[0]
         size1 = foo.size[1]
@@ -223,7 +225,8 @@ def resize_images(dst, width):
         size1_new = int(size1*resize_factor)
         foo = foo.resize((size0_new,size1_new),Image.ANTIALIAS)
         foo.save(dst/Path(file), optimize=True, quality=95)
-        print('\t\tResizing {} ({}x{})...'.format(file,size0_new,size1_new))
+        i+=1
+    print('\t{} images resized.  '.format(i), end='\r')
 
 # --------------------------------------------------------------------------------------------------------
 if __name__ == "__main__":
@@ -276,4 +279,4 @@ if __name__ == "__main__":
 
 
 
-    print('Done.\n')
+    print('\nDone.\n')
