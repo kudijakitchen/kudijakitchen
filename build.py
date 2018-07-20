@@ -23,7 +23,7 @@ def delete_folder_contents(dst):
 def copytree(src, dst, symlinks=False, ignore=None):
     """Copy directory and all contents from src to dst.
     """
-    print('\tCopying {}'.format(dst))
+    print('\tCopying {}...'.format(dst))
     for item in os.listdir(src):
         s = os.path.join(src, item)
         d = os.path.join(dst, item)
@@ -204,7 +204,26 @@ def construct_index(articles, categories, pathOutput):
     replace_text_in_file(original, add='', replaceText='#CATEGORY_NAV#')
     replace_text_in_file(original, add='', replaceText='#ARTICLES#')
 
-	
+
+def resize_images(dst, width):
+    """Resizes all images in dst by factor.
+    """
+    from PIL import Image
+    from glob import glob
+    import glob
+
+    img_files = os.listdir(dst)  # list all files and directories
+
+    for file in img_files:
+        foo = Image.open(dst/Path(file))
+        size0 = foo.size[0]
+        size1 = foo.size[1]
+        resize_factor = width/size0
+        size0_new = int(size0*resize_factor)
+        size1_new = int(size1*resize_factor)
+        foo = foo.resize((size0_new,size1_new),Image.ANTIALIAS)
+        foo.save(dst/Path(file), optimize=True, quality=95)
+        print('\t\tResizing {} ({}x{})...'.format(file,size0_new,size1_new))
 
 # --------------------------------------------------------------------------------------------------------
 if __name__ == "__main__":
@@ -240,12 +259,21 @@ if __name__ == "__main__":
     delete_folder_contents(dst)
     copytree(src, dst, symlinks=False, ignore=None)
 
-    # output images
-    print('Copying images...')
+    # output full-res images
+    print('Copying images (full-res)...')
     src = Path('content/images')
     dst = pathOutput/'images'
     delete_folder_contents(dst)
     copytree(src, dst, symlinks=False, ignore=None)
+
+    # output low-res images
+    print('Copying images (low-res)...')
+    src = Path('content/images')
+    dst = pathOutput/'images_low-res'
+    delete_folder_contents(dst)
+    copytree(src, dst, symlinks=False, ignore=None)
+    resize_images(dst, width=350)
+
 
 
     print('Done.\n')
