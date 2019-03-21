@@ -34,4 +34,4 @@ category: Kudija Kitchen
 
 6. Bake 8-12 minutes or until cheese is melted and crust is golden. Enjoy! 
 
-Original Source: [Damn Delicious](https://damndelicious.net/2017/05/19/roasted-garlic-chicken-and-spinach-white-pizza/)*
+*Original Source: [Damn Delicious](https://damndelicious.net/2017/05/19/roasted-garlic-chicken-and-spinach-white-pizza/)*
